@@ -1,0 +1,52 @@
+.nav_back{
+    background-color: #FDFCFF !important;
+    border: 2px solid skyblue;
+    margin-top: 10px;
+}
+.nav_text{
+     color:skyblue!important;
+    font-size: 18px;
+    font-weight: bold;
+}
+.nav-item a:hover{
+    color: black !important;
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+}
+.dropdown-menu{
+        background-color:lightskyblue;
+}
+.h-30{
+    height: 350px;
+}
+.mar-r{
+    margin-right: 20px;
+}
+.margin_side{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.margin-top{
+    margin: 10px 0px;
+}
+.mar-down{
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.models_demo{
+    min-height: 100px;
+    text-align: center;
+    padding: 25px 0px;
+}
+.title_col{
+    color: white;
+    text-transform: uppercase;
+}
+.bg_color{
+    background-color: lightcoral;
+}
+.text_col{
+    color: white;
+    text-align: left;
+}
